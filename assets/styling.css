@@ -18,7 +18,7 @@
 
 .wrapper{
     max-width: 1600px;
-    min-width:800px;
+    /* min-width:800px; */
     width: 100%;
 }
 /* .kk{   
@@ -130,7 +130,7 @@
     padding: 40px;
     margin: 7px;
     border-radius: 10px;
-    box-shadow: 1px 2px 6px rgb(79, 78, 78);
+    /* box-shadow: 1px 2px 6px rgb(79, 78, 78); */
 }
 
 .mainsectionheading{
