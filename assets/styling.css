@@ -226,3 +226,30 @@ li{
     opacity: 0.7; 
 }
 
+.sidebutton{
+    display: none;
+}
+
+@media(max-width: 1035px){
+    .btn{
+        display:none;
+    }
+}
+
+@media(max-width: 859px){
+    .sidebutton{
+        display:inline;
+        /* border:2px solid red; */
+    }
+    .sidebutton:hover {
+        display: none;
+    }
+    .kk{
+        display:none
+    }
+    .mainsection h1 {
+        font-size: 45px;
+        /* margin-bottom: 10px; */
+    }
+}
+
